@@ -1,0 +1,105 @@
+==========
+ageru\ |1|
+==========
+
+:Entry:                    ageru
+:Reading:                  あげる
+:Part of Speech (品詞):    verb, group 2 (動詞、五段活用)
+:English Counterpart(s):   give
+:Related Expression(s):    kureru\ |1| (morau\ |1|)
+
+Meaning
+=======
+
+Someone gives something to a person who is not a member of the giver's in-group
+but whose status is about equal to the giver.
+
+
+Key Sentence
+============
+
++-----------------+-----------------+---------------+-----------------------+
+| Topic (subject) | Indirect Object | Direct Object |                       |
++----------+------+-----------+-----+---------+-----+-----------------------+
+|| 私      || は  || 良子     || に || 花     || を || あげた / あげました。|
+|| Watashi || wa  || Yoshiko  || ni || hana   || o  || ageta  / agemashita. |
++----------+------+-----------+-----+---------+-----+-----------------------+
+| (I gave Yoshiko flowers.)                                                 |
++---------------------------------------------------------------------------+
+
+
+Examples
+--------
+
+a. | 大野さんは山本さんに本をあげた。
+   | *Ōno-san wa Yamamoto-san ni hon o ageta.*
+   | (Ms. Ono gave Mr. Yamamoto a book.)
+
+b. | 君はアンに何をあげましたか。
+   | *Kimi wa An ni nani o agemashita ka.*
+   | (What did you give to Ann?)
+
+
+Notes
+-----
+
+1. *Ageru* is one of a set of giving and receiving verbs; the meaning is
+   'give'. However, *ageru* cannot be used when the indirect object is the
+   first person (i.e., *I* or *we*) or a person with whom the speaker
+   empathizes (usually a member of the speaker's in-group). Thus, (1a) and (1b)
+   are ungrammatical.
+
+   (1) a. | \*花子は\ **私に**\本を\ **あげた**\。
+          | \*Hanako wa **watashi ni** hon o **ageta**.
+          | (Hanako gave me a book.)
+
+       b. | \*花子は\ **私のむすこに**\本を\ **あげた**\。
+          | \*Hanako wa **watashi no musuko ni** hon o **ageta**.
+          | (Hanako gave my son a book.)
+
+   The reason for this is as follows: *Ageru* requires the giver's point of
+   view or a neutral point of view when describing an event. When an event
+   involves the first person or a person the speaker empathizes with, however,
+   the event is normally described from that person's point of view. (See
+   Characterists of Japanese Grammar, 9. Viewpoint.) Therefore, if the first
+   person or a person the speaker empathizes with is a recipient in
+   *ageru*\-sentences, a viewpoint conflict arises, making the sentences
+   ungrammatical. The grammatical sentences for (1a) and (1b) are (2a) and
+   (2b), respectively.
+
+   (2) a. | 花子は私に本を\ **くれた**\。
+          | Hanako wa watashi ni hon o **kureta**.
+          | (Hanago gave me a book).
+
+       b. | 花子は私のむすこに本を\ **くれた**\。
+          | Hanako wa watashi no musuko ni hon o **kureta**.
+          | (Hanako gave my son a book.)
+
+2. The humble polite version of *ageru* is *sashiageru*. Example:
+
+   (3) | 私は先生に本を\ **さしあげました**\。
+       | Watashi wa sensei ni hon o **sashiagemashita**.
+       | (I gave my teacher a book.)
+
+   The degree of politeness expressed in *sashiageru* is higher than that of
+   *kudasaru* and *itadaku*, which are the polite versions of *kureru* and
+   *morau*, respectively.
+
+3. When the giver is in a higher position than the recipient or the recipient
+   is a person very close to the speaker, *yaru* is used instead of *ageru*.
+   Examples:
+
+   (4) a. | 私は弟に本を\ **やった**\。
+          | Watashi wa otōto ni hon o **yatta**.
+          | (I gave my little brother a book.)
+
+       b. | ひろしは猫にミルクを\ **やった**\。
+          | Hiroshi wa neko ni miruku o **yatta**.
+          | (Hiroshi gave milk to the cat.)
+
+       c. | [Tom is the speaker's intimate friend.]
+          | 私はトムにケーキを\ **やりました**\。
+          | Watashi wa Tomu ni kēki o **yarimashita**.
+          | (I gave a cake to Tom.)
+
+.. |1| replace:: :sup:`1`
